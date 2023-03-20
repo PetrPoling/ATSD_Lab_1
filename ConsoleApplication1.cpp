@@ -10,6 +10,7 @@ struct Node
     Node* next;
 };
 
+
 // Definition of SortedLinkedList
 class SortedLinkedList
 {
